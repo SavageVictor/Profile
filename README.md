@@ -6,7 +6,7 @@
 <code>📢 [Public talks: 0](TALKS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 <code>🧑‍💻 Languages: JavaScript, C++, C#</code>
-<code>📦 Tech stack: node.js</code>
+<code>📦 Tech stack: node.js, Unity</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@VictorOliinyk](https://telegram.me/your-nikname)</code>
 <code>📫 [victor.v.oliinyk@gmail.com](mailto:your-email)</code>
